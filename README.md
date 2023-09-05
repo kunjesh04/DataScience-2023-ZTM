@@ -14,6 +14,8 @@ The repository is organized into sections that represent different topics and ar
 
 - S6: Pandas
 - S7: NumPy
+- S8 : Matplotlib
+- S9 : Scikit-Learn
 
 Each section folder contains Jupyter notebooks, code snippets, and any other relevant materials that showcase my daily work and learning progress.
 
