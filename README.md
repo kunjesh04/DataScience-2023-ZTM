@@ -16,6 +16,8 @@ The repository is organized into sections that represent different topics and ar
 - S7: NumPy
 - S8 : Matplotlib
 - S9 : Scikit-Learn
+- S11 : Milestone Project 1 (Heart Disease Predictor)
+- S12 : Milestone Project 2 (Bulldozer Price Prediction)
 
 Each section folder contains Jupyter notebooks, code snippets, and any other relevant materials that showcase my daily work and learning progress.
 
